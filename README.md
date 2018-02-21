@@ -1,5 +1,6 @@
 # hw3
 Опрос о прогулах в университете. Поучаствовало 20 человек. 
+
 Ссылка на редактирование формы https://docs.google.com/forms/d/1fZvVE_u3h_T06MIjX-4D0MdQ8oFmTinEbFvGFCQLjGQ/edit?usp=sharing
 
 Ссылка на форму https://goo.gl/forms/bkqOZTrHiQda0Kup2
